@@ -1,0 +1,17 @@
+{
+  "search": "Search by name",
+  "all_regions": "All regions",
+  "africa": "Africa",
+  "americas": "Americas",
+  "asia": "Asia",
+  "europe": "Europe",
+  "oceania": "Oceania",
+  "sort_by_population": "Sort By Population",
+  "switchLang": "Switch Language",
+  "region": "Region",
+  "population": "Population",
+  "capital": "Capital",
+  "neighbors": "Neighboring Countries",
+  "loading": "Loading",
+  "error": "Error"
+}

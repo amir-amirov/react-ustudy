@@ -1,0 +1,17 @@
+{
+  "search": "Поиск по имени",
+  "all_regions": "Все регионы",
+  "africa": "Африка",
+  "americas": "Америка",
+  "asia": "Азия",
+  "europe": "Европа",
+  "oceania": "Океания",
+  "sort_by_population": "Сортировать по населению",
+  "switchLang": "Сменить язык",
+  "region": "Регион",
+  "population": "Население",
+  "capital": "Столица",
+  "neighbors": "Соседние страны",
+  "loading": "Загрузка",
+  "error": "Ошибка"
+}

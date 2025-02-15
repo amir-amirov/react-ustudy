@@ -1,0 +1,1002 @@
+{
+  "SGS": {
+    "en": "South Georgia and the South Sandwich Islands",
+    "ru": "Южная Георгия и Южные Сандвичевы острова"
+  },
+  "GRD": {
+    "en": "Grenada",
+    "ru": "Гренада"
+  },
+  "CHE": {
+    "en": "Swiss Confederation",
+    "ru": "Швейцарская Конфедерация"
+  },
+  "SLE": {
+    "en": "Republic of Sierra Leone",
+    "ru": "Республика Сьерра-Леоне"
+  },
+  "HUN": {
+    "en": "Hungary",
+    "ru": "Венгрия"
+  },
+  "TWN": {
+    "en": "Republic of China (Taiwan)",
+    "ru": "Китайская Республика"
+  },
+  "WLF": {
+    "en": "Territory of the Wallis and Futuna Islands",
+    "ru": "Территория Уоллис и Футуна острова"
+  },
+  "BRB": {
+    "en": "Barbados",
+    "ru": "Барбадос"
+  },
+  "PCN": {
+    "en": "Pitcairn Group of Islands",
+    "ru": "Питкэрн группа островов"
+  },
+  "CIV": {
+    "en": "Republic of Côte d'Ivoire",
+    "ru": "Республика Кот-д'Ивуаре"
+  },
+  "TUN": {
+    "en": "Tunisian Republic",
+    "ru": "Тунисской Республики"
+  },
+  "ITA": {
+    "en": "Italian Republic",
+    "ru": "итальянская Республика"
+  },
+  "BEN": {
+    "en": "Republic of Benin",
+    "ru": "Республика Бенин"
+  },
+  "IDN": {
+    "en": "Republic of Indonesia",
+    "ru": "Республика Индонезия"
+  },
+  "CPV": {
+    "en": "Republic of Cabo Verde",
+    "ru": "Республика Кабо -Верде"
+  },
+  "KNA": {
+    "en": "Federation of Saint Christopher and Nevis",
+    "ru": "Федерация Сент-Кристофер и Н е в и с"
+  },
+  "LAO": {
+    "en": "Lao People's Democratic Republic",
+    "ru": "Лаосская Народно-Демократическая Республика"
+  },
+  "BES": {
+    "en": "Bonaire, Sint Eustatius and Saba",
+    "ru": "Бонэйр, Синт-Эстатиус и Саба"
+  },
+  "UGA": {
+    "en": "Republic of Uganda",
+    "ru": "Республика Уганда"
+  },
+  "AND": {
+    "en": "Principality of Andorra",
+    "ru": "Княжество Андорра"
+  },
+  "BDI": {
+    "en": "Republic of Burundi",
+    "ru": "Республика Бурунди"
+  },
+  "ZAF": {
+    "en": "Republic of South Africa",
+    "ru": "Южно-Африканская Республика"
+  },
+  "FRA": {
+    "en": "French Republic",
+    "ru": "Французская Республика"
+  },
+  "LBY": {
+    "en": "State of Libya",
+    "ru": "Государство Ливии"
+  },
+  "MEX": {
+    "en": "United Mexican States",
+    "ru": "Мексиканские Соединённые Штаты"
+  },
+  "GAB": {
+    "en": "Gabonese Republic",
+    "ru": "Габона Республика"
+  },
+  "MNP": {
+    "en": "Commonwealth of the Northern Mariana Islands",
+    "ru": "Содружество Северных Марианских островов"
+  },
+  "MKD": {
+    "en": "Republic of North Macedonia",
+    "ru": "Республика Северная Македония"
+  },
+  "CHN": {
+    "en": "People's Republic of China",
+    "ru": "Народная Республика Китай"
+  },
+  "YEM": {
+    "en": "Republic of Yemen",
+    "ru": "Йеменская Республика"
+  },
+  "BLM": {
+    "en": "Collectivity of Saint Barthélemy",
+    "ru": "Коллективность Санкт -Бартельми"
+  },
+  "GGY": {
+    "en": "Bailiwick of Guernsey",
+    "ru": "Коронное владение Гернси"
+  },
+  "SLB": {
+    "en": "Solomon Islands",
+    "ru": "Соломоновы острова"
+  },
+  "SJM": {
+    "en": "Svalbard og Jan Mayen",
+    "ru": "Свальбарда ог Ян-Майен"
+  },
+  "FRO": {
+    "en": "Faroe Islands",
+    "ru": "Фарерские острова"
+  },
+  "UZB": {
+    "en": "Republic of Uzbekistan",
+    "ru": "Республика Узбекистан"
+  },
+  "EGY": {
+    "en": "Arab Republic of Egypt",
+    "ru": "Арабская Республика Египет"
+  },
+  "SEN": {
+    "en": "Republic of Senegal",
+    "ru": "Республика Сенегал"
+  },
+  "LKA": {
+    "en": "Democratic Socialist Republic of Sri Lanka",
+    "ru": "Демократическая Социалистическая Республика Шри-Ланка"
+  },
+  "PSE": {
+    "en": "State of Palestine",
+    "ru": "Государство Палестина"
+  },
+  "BGD": {
+    "en": "People's Republic of Bangladesh",
+    "ru": "Народная Республика Бангладеш"
+  },
+  "PER": {
+    "en": "Republic of Peru",
+    "ru": "Республика Перу"
+  },
+  "SGP": {
+    "en": "Republic of Singapore",
+    "ru": "Республика Сингапур"
+  },
+  "TUR": {
+    "en": "Republic of Turkey",
+    "ru": "Республика Турции"
+  },
+  "AFG": {
+    "en": "Islamic Republic of Afghanistan",
+    "ru": "Исламская Республика Афганистан"
+  },
+  "ABW": {
+    "en": "Aruba",
+    "ru": "Аруба"
+  },
+  "COK": {
+    "en": "Cook Islands",
+    "ru": "острова Кука"
+  },
+  "GBR": {
+    "en": "United Kingdom of Great Britain and Northern Ireland",
+    "ru": "Соединенное Королевство Великобритании и Северной Ирландии"
+  },
+  "ZMB": {
+    "en": "Republic of Zambia",
+    "ru": "Республика Замбия"
+  },
+  "FIN": {
+    "en": "Republic of Finland",
+    "ru": "Финляндская Республика"
+  },
+  "NER": {
+    "en": "Republic of Niger",
+    "ru": "Республика Нигер"
+  },
+  "CXR": {
+    "en": "Territory of Christmas Island",
+    "ru": "Территория острова Рождества"
+  },
+  "TKL": {
+    "en": "Tokelau",
+    "ru": "Токелау"
+  },
+  "GNB": {
+    "en": "Republic of Guinea-Bissau",
+    "ru": "Республика Гвинея -Бисау"
+  },
+  "AZE": {
+    "en": "Republic of Azerbaijan",
+    "ru": "Азербайджанская Республика"
+  },
+  "REU": {
+    "en": "Réunion Island",
+    "ru": "Реюньон"
+  },
+  "DJI": {
+    "en": "Republic of Djibouti",
+    "ru": "Республика Джибути"
+  },
+  "PRK": {
+    "en": "Democratic People's Republic of Korea",
+    "ru": "Корейская Народно-Демократическая Республика Корея"
+  },
+  "MUS": {
+    "en": "Republic of Mauritius",
+    "ru": "Республика Маврикий"
+  },
+  "MSR": {
+    "en": "Montserrat",
+    "ru": "Монтсеррат"
+  },
+  "VIR": {
+    "en": "Virgin Islands of the United States",
+    "ru": "Виргинские острова Соединенных Штатов"
+  },
+  "COL": {
+    "en": "Republic of Colombia",
+    "ru": "Республика Колумбия"
+  },
+  "GRC": {
+    "en": "Hellenic Republic",
+    "ru": "Греческая Республика"
+  },
+  "HRV": {
+    "en": "Republic of Croatia",
+    "ru": "Республика Хорватия"
+  },
+  "MAR": {
+    "en": "Kingdom of Morocco",
+    "ru": "Королевство Марокко"
+  },
+  "DZA": {
+    "en": "People's Democratic Republic of Algeria",
+    "ru": "Народно-Демократическая Республика Алжир"
+  },
+  "ATA": {
+    "en": "Antarctica",
+    "ru": "Антарктида"
+  },
+  "NLD": {
+    "en": "Kingdom of the Netherlands",
+    "ru": "Нидерланды"
+  },
+  "SDN": {
+    "en": "Republic of the Sudan",
+    "ru": "Республика Судан"
+  },
+  "FJI": {
+    "en": "Republic of Fiji",
+    "ru": "Республика Фиджи"
+  },
+  "LIE": {
+    "en": "Principality of Liechtenstein",
+    "ru": "Княжество Лихтенштейн"
+  },
+  "NPL": {
+    "en": "Federal Democratic Republic of Nepal",
+    "ru": "Федеративная Демократическая Республика Непал"
+  },
+  "PRI": {
+    "en": "Commonwealth of Puerto Rico",
+    "ru": "Содружество Пуэрто-Рико"
+  },
+  "GEO": {
+    "en": "Georgia",
+    "ru": "Грузия"
+  },
+  "PAK": {
+    "en": "Islamic Republic of Pakistan",
+    "ru": "Исламская Республика Пакистан"
+  },
+  "MCO": {
+    "en": "Principality of Monaco",
+    "ru": "Княжество Монако"
+  },
+  "BWA": {
+    "en": "Republic of Botswana",
+    "ru": "Республика Ботсвана"
+  },
+  "LBN": {
+    "en": "Lebanese Republic",
+    "ru": "Ливанская Республика"
+  },
+  "PNG": {
+    "en": "Independent State of Papua New Guinea",
+    "ru": "Независимое Государство Папуа-Новой Гвинеи"
+  },
+  "MYT": {
+    "en": "Department of Mayotte",
+    "ru": "Департамент Майотта"
+  },
+  "DOM": {
+    "en": "Dominican Republic",
+    "ru": "Доминиканская Республика"
+  },
+  "NFK": {
+    "en": "Territory of Norfolk Island",
+    "ru": "Территория острова Норфолк"
+  },
+  "BVT": {
+    "en": "Bouvet Island",
+    "ru": "Остров Буве"
+  },
+  "QAT": {
+    "en": "State of Qatar",
+    "ru": "Государство Катар"
+  },
+  "MDG": {
+    "en": "Republic of Madagascar",
+    "ru": "Республика Мадагаскар"
+  },
+  "IND": {
+    "en": "Republic of India",
+    "ru": "Республика Индия"
+  },
+  "SYR": {
+    "en": "Syrian Arab Republic",
+    "ru": "Сирийская Арабская Республика"
+  },
+  "MNE": {
+    "en": "Montenegro",
+    "ru": "Черногория"
+  },
+  "SWZ": {
+    "en": "Kingdom of Eswatini",
+    "ru": "Королевство Свазиленд"
+  },
+  "PRY": {
+    "en": "Republic of Paraguay",
+    "ru": "Республика Парагвай"
+  },
+  "SLV": {
+    "en": "Republic of El Salvador",
+    "ru": "Республика Эль-Сальвадор"
+  },
+  "UKR": {
+    "en": "Ukraine",
+    "ru": "Украина"
+  },
+  "IMN": {
+    "en": "Isle of Man",
+    "ru": "Остров Мэн"
+  },
+  "NAM": {
+    "en": "Republic of Namibia",
+    "ru": "Республика Намибия"
+  },
+  "ARE": {
+    "en": "United Arab Emirates",
+    "ru": "Объединенные Арабские Эмираты"
+  },
+  "BGR": {
+    "en": "Republic of Bulgaria",
+    "ru": "Республика Болгария"
+  },
+  "GRL": {
+    "en": "Greenland",
+    "ru": "Гренландия"
+  },
+  "DEU": {
+    "en": "Federal Republic of Germany",
+    "ru": "Федеративная Республика Германия"
+  },
+  "KHM": {
+    "en": "Kingdom of Cambodia",
+    "ru": "Королевство Камбоджа"
+  },
+  "IRQ": {
+    "en": "Republic of Iraq",
+    "ru": "Республика Ирак"
+  },
+  "ATF": {
+    "en": "Territory of the French Southern and Antarctic Lands",
+    "ru": "Территория Французские Южные и Антарктические земли"
+  },
+  "SWE": {
+    "en": "Kingdom of Sweden",
+    "ru": "Королевство Швеция"
+  },
+  "CUB": {
+    "en": "Republic of Cuba",
+    "ru": "Республика Куба"
+  },
+  "KGZ": {
+    "en": "Kyrgyz Republic",
+    "ru": "Кыргызская Республика"
+  },
+  "RUS": {
+    "en": "Russian Federation",
+    "ru": "Российская Федерация"
+  },
+  "MYS": {
+    "en": "Malaysia",
+    "ru": "Малайзия"
+  },
+  "STP": {
+    "en": "Democratic Republic of São Tomé and Príncipe",
+    "ru": "Демократическая Республика Сан-Томе и Принсипи"
+  },
+  "CYP": {
+    "en": "Republic of Cyprus",
+    "ru": "Республика Кипр"
+  },
+  "CAN": {
+    "en": "Canada",
+    "ru": "Канада"
+  },
+  "MWI": {
+    "en": "Republic of Malawi",
+    "ru": "Республика Малави"
+  },
+  "SAU": {
+    "en": "Kingdom of Saudi Arabia",
+    "ru": "Королевство Саудовская Аравия"
+  },
+  "BIH": {
+    "en": "Bosnia and Herzegovina",
+    "ru": "Босния и Герцеговина"
+  },
+  "ETH": {
+    "en": "Federal Democratic Republic of Ethiopia",
+    "ru": "Федеративная Демократическая Республика Эфиопия"
+  },
+  "ESP": {
+    "en": "Kingdom of Spain",
+    "ru": "Королевство Испания"
+  },
+  "SVN": {
+    "en": "Republic of Slovenia",
+    "ru": "Республика Словения"
+  },
+  "OMN": {
+    "en": "Sultanate of Oman",
+    "ru": "Султанат Оман"
+  },
+  "SPM": {
+    "en": "Saint Pierre and Miquelon",
+    "ru": "Сен-Пьер и Микелон"
+  },
+  "MAC": {
+    "en": "Macao Special Administrative Region of the People's Republic of China",
+    "ru": "Специальный административный район Макао Китайской Народной Республики Китай"
+  },
+  "SMR": {
+    "en": "Republic of San Marino",
+    "ru": "Большинство Serene Республика Сан-Марино"
+  },
+  "LSO": {
+    "en": "Kingdom of Lesotho",
+    "ru": "Королевство Лесото"
+  },
+  "MHL": {
+    "en": "Republic of the Marshall Islands",
+    "ru": "Республика Маршалловы острова"
+  },
+  "SXM": {
+    "en": "Sint Maarten",
+    "ru": "Синт-Маартен"
+  },
+  "ISL": {
+    "en": "Iceland",
+    "ru": "Исландия"
+  },
+  "LUX": {
+    "en": "Grand Duchy of Luxembourg",
+    "ru": "Великое Герцогство Люксембург"
+  },
+  "ARG": {
+    "en": "Argentine Republic",
+    "ru": "Аргентинская Республика"
+  },
+  "TCA": {
+    "en": "Turks and Caicos Islands",
+    "ru": "Теркс и Кайкос острова"
+  },
+  "NRU": {
+    "en": "Republic of Nauru",
+    "ru": "Республика Науру"
+  },
+  "CCK": {
+    "en": "Territory of the Cocos (Keeling) Islands",
+    "ru": "Территория Кокосовые (Килинг) острова"
+  },
+  "ESH": {
+    "en": "Sahrawi Arab Democratic Republic",
+    "ru": "Sahrawi Арабская Демократическая Республика"
+  },
+  "DMA": {
+    "en": "Commonwealth of Dominica",
+    "ru": "Содружество Доминики"
+  },
+  "CRI": {
+    "en": "Republic of Costa Rica",
+    "ru": "Республика Коста-Рика"
+  },
+  "AUS": {
+    "en": "Commonwealth of Australia",
+    "ru": "Содружество Австралии"
+  },
+  "THA": {
+    "en": "Kingdom of Thailand",
+    "ru": "Королевство Таиланд"
+  },
+  "HTI": {
+    "en": "Republic of Haiti",
+    "ru": "Республика Гаити"
+  },
+  "TUV": {
+    "en": "Tuvalu",
+    "ru": "Тувалу"
+  },
+  "HND": {
+    "en": "Republic of Honduras",
+    "ru": "Республика Гондурас"
+  },
+  "GNQ": {
+    "en": "Republic of Equatorial Guinea",
+    "ru": "Республика Экваториальная Гвинея"
+  },
+  "LCA": {
+    "en": "Saint Lucia",
+    "ru": "Сент-Люсия"
+  },
+  "PYF": {
+    "en": "French Polynesia",
+    "ru": "Французская Полинезия"
+  },
+  "BLR": {
+    "en": "Republic of Belarus",
+    "ru": "Республика Беларусь"
+  },
+  "LVA": {
+    "en": "Republic of Latvia",
+    "ru": "Латвийская Республика"
+  },
+  "PLW": {
+    "en": "Republic of Palau",
+    "ru": "Республика Палау"
+  },
+  "GLP": {
+    "en": "Guadeloupe",
+    "ru": "Гваделупа"
+  },
+  "PHL": {
+    "en": "Republic of the Philippines",
+    "ru": "Республика Филиппины"
+  },
+  "GIB": {
+    "en": "Gibraltar",
+    "ru": "Гибралтар"
+  },
+  "DNK": {
+    "en": "Kingdom of Denmark",
+    "ru": "Королевство Дания"
+  },
+  "CMR": {
+    "en": "Republic of Cameroon",
+    "ru": "Республика Камерун"
+  },
+  "GIN": {
+    "en": "Republic of Guinea",
+    "ru": "Республика Гвинея"
+  },
+  "BHR": {
+    "en": "Kingdom of Bahrain",
+    "ru": "Королевство Бахрейн"
+  },
+  "SUR": {
+    "en": "Republic of Suriname",
+    "ru": "Республика Суринам"
+  },
+  "COD": {
+    "en": "Democratic Republic of the Congo",
+    "ru": "Демократическая Республика Конго"
+  },
+  "SOM": {
+    "en": "Federal Republic of Somalia",
+    "ru": "Федеративная Республика Сомали"
+  },
+  "CZE": {
+    "en": "Czech Republic",
+    "ru": "Чешская Республика"
+  },
+  "NCL": {
+    "en": "New Caledonia",
+    "ru": "Новая Каледония"
+  },
+  "VUT": {
+    "en": "Republic of Vanuatu",
+    "ru": "Республика Вануату"
+  },
+  "SHN": {
+    "en": "Saint Helena, Ascension and Tristan da Cunha",
+    "ru": "Острова Святой Елены, Вознесения и Тристан-да-Кунья"
+  },
+  "TGO": {
+    "en": "Togolese Republic",
+    "ru": "Того Республика"
+  },
+  "VGB": {
+    "en": "Virgin Islands",
+    "ru": "Виргинские острова"
+  },
+  "KEN": {
+    "en": "Republic of Kenya",
+    "ru": "Республика Кения"
+  },
+  "NIU": {
+    "en": "Niue",
+    "ru": "Ниуэ"
+  },
+  "HMD": {
+    "en": "Heard Island and McDonald Islands",
+    "ru": "Остров Херд и острова Макдональд"
+  },
+  "RWA": {
+    "en": "Republic of Rwanda",
+    "ru": "Республика Руанда"
+  },
+  "EST": {
+    "en": "Republic of Estonia",
+    "ru": "Эстонская Республика"
+  },
+  "ROU": {
+    "en": "Romania",
+    "ru": "Румыния"
+  },
+  "TTO": {
+    "en": "Republic of Trinidad and Tobago",
+    "ru": "Республика Тринидад и Тобаго"
+  },
+  "GUY": {
+    "en": "Co-operative Republic of Guyana",
+    "ru": "Кооперативная Республика Гайана"
+  },
+  "TLS": {
+    "en": "Democratic Republic of Timor-Leste",
+    "ru": "Демократическая Республика Тимор -Лешти"
+  },
+  "VNM": {
+    "en": "Socialist Republic of Vietnam",
+    "ru": "Социалистическая Республика Вьетнам"
+  },
+  "URY": {
+    "en": "Oriental Republic of Uruguay",
+    "ru": "Восточной Республики Уругвай"
+  },
+  "VAT": {
+    "en": "Vatican City State",
+    "ru": "Город-государство Ватикан"
+  },
+  "HKG": {
+    "en": "Hong Kong Special Administrative Region of the People's Republic of China",
+    "ru": "Hong Kong Специальный административный район Китайской Народной Республики Китая"
+  },
+  "AUT": {
+    "en": "Republic of Austria",
+    "ru": "Австрийская Республика"
+  },
+  "ATG": {
+    "en": "Antigua and Barbuda",
+    "ru": "Антигуа и Барбуда"
+  },
+  "TKM": {
+    "en": "Turkmenistan",
+    "ru": "Туркменистан"
+  },
+  "MOZ": {
+    "en": "Republic of Mozambique",
+    "ru": "Республика Мозамбик"
+  },
+  "PAN": {
+    "en": "Republic of Panama",
+    "ru": "Республика Панама"
+  },
+  "FSM": {
+    "en": "Federated States of Micronesia",
+    "ru": "Федеративные Штаты Микронезии"
+  },
+  "IRL": {
+    "en": "Republic of Ireland",
+    "ru": "Ирландия"
+  },
+  "CUW": {
+    "en": "Country of Curaçao",
+    "ru": "Страна Кюрасао"
+  },
+  "GUF": {
+    "en": "Guiana",
+    "ru": "Гвиана"
+  },
+  "NOR": {
+    "en": "Kingdom of Norway",
+    "ru": "Королевство Норвегия"
+  },
+  "ALA": {
+    "en": "Åland Islands",
+    "ru": "Аландские острова"
+  },
+  "CAF": {
+    "en": "Central African Republic",
+    "ru": "Центрально-Африканская Республика"
+  },
+  "BFA": {
+    "en": "Burkina Faso",
+    "ru": "Буркина -Фасо"
+  },
+  "ERI": {
+    "en": "State of Eritrea",
+    "ru": "Государство Эритрея"
+  },
+  "TZA": {
+    "en": "United Republic of Tanzania",
+    "ru": "Объединенная Республика Танзания"
+  },
+  "KOR": {
+    "en": "Republic of Korea",
+    "ru": "Республика Корея"
+  },
+  "JOR": {
+    "en": "Hashemite Kingdom of Jordan",
+    "ru": "Иорданского Хашимитского Королевства"
+  },
+  "MRT": {
+    "en": "Islamic Republic of Mauritania",
+    "ru": "Исламская Республика Мавритания"
+  },
+  "LTU": {
+    "en": "Republic of Lithuania",
+    "ru": "Литовская Республика"
+  },
+  "UMI": {
+    "en": "United States Minor Outlying Islands",
+    "ru": "Внешние малые острова США"
+  },
+  "SVK": {
+    "en": "Slovak Republic",
+    "ru": "Словацкая Республика"
+  },
+  "AGO": {
+    "en": "Republic of Angola",
+    "ru": "Республика Ангола"
+  },
+  "KAZ": {
+    "en": "Republic of Kazakhstan",
+    "ru": "Республика Казахстан"
+  },
+  "MDA": {
+    "en": "Republic of Moldova",
+    "ru": "Молдова"
+  },
+  "MLI": {
+    "en": "Republic of Mali",
+    "ru": "Республика Мали"
+  },
+  "FLK": {
+    "en": "Falkland Islands",
+    "ru": "Фолклендские острова"
+  },
+  "ARM": {
+    "en": "Republic of Armenia",
+    "ru": "Республика Армения"
+  },
+  "WSM": {
+    "en": "Independent State of Samoa",
+    "ru": "Независимое Государство Самоа"
+  },
+  "JEY": {
+    "en": "Bailiwick of Jersey",
+    "ru": "Коронное владение Джерси"
+  },
+  "JPN": {
+    "en": "Japan",
+    "ru": "Япония"
+  },
+  "BOL": {
+    "en": "Plurinational State of Bolivia",
+    "ru": "Многонациональное Государство Боливия"
+  },
+  "CHL": {
+    "en": "Republic of Chile",
+    "ru": "Республика Чили"
+  },
+  "USA": {
+    "en": "United States of America",
+    "ru": "Соединенные Штаты Америки"
+  },
+  "VCT": {
+    "en": "Saint Vincent and the Grenadines",
+    "ru": "Сент-Винсент и Гренадины"
+  },
+  "BMU": {
+    "en": "Bermuda",
+    "ru": "Бермудские острова"
+  },
+  "SYC": {
+    "en": "Republic of Seychelles",
+    "ru": "Республика Сейшельские Острова"
+  },
+  "IOT": {
+    "en": "British Indian Ocean Territory",
+    "ru": "Британская территория Индийского океана"
+  },
+  "GTM": {
+    "en": "Republic of Guatemala",
+    "ru": "Республика Гватемала"
+  },
+  "ECU": {
+    "en": "Republic of Ecuador",
+    "ru": "Республика Эквадор"
+  },
+  "MTQ": {
+    "en": "Martinique",
+    "ru": "Мартиника"
+  },
+  "TJK": {
+    "en": "Republic of Tajikistan",
+    "ru": "Республика Таджикистан"
+  },
+  "MLT": {
+    "en": "Republic of Malta",
+    "ru": "Республика Мальта"
+  },
+  "GMB": {
+    "en": "Republic of the Gambia",
+    "ru": "Республика Гамбия"
+  },
+  "NGA": {
+    "en": "Federal Republic of Nigeria",
+    "ru": "Федеративная Республика Нигерия"
+  },
+  "BHS": {
+    "en": "Commonwealth of the Bahamas",
+    "ru": "Содружество Багамских Островов"
+  },
+  "UNK": {
+    "en": "Republic of Kosovo",
+    "ru": "Республика Косово"
+  },
+  "KWT": {
+    "en": "State of Kuwait",
+    "ru": "Государство Кувейт"
+  },
+  "MDV": {
+    "en": "Republic of the Maldives",
+    "ru": "Республика Мальдивы"
+  },
+  "SSD": {
+    "en": "Republic of South Sudan",
+    "ru": "Республика Южный Судан"
+  },
+  "IRN": {
+    "en": "Islamic Republic of Iran",
+    "ru": "Исламская Республика Иран"
+  },
+  "ALB": {
+    "en": "Republic of Albania",
+    "ru": "Республика Албания"
+  },
+  "BRA": {
+    "en": "Federative Republic of Brazil",
+    "ru": "Федеративная Республика Бразилия"
+  },
+  "SRB": {
+    "en": "Republic of Serbia",
+    "ru": "Республика Сербия"
+  },
+  "BLZ": {
+    "en": "Belize",
+    "ru": "Белиз"
+  },
+  "MMR": {
+    "en": "Republic of the Union of Myanmar",
+    "ru": "Республика Союза Мьянма"
+  },
+  "BTN": {
+    "en": "Kingdom of Bhutan",
+    "ru": "Королевство Бутан"
+  },
+  "VEN": {
+    "en": "Bolivarian Republic of Venezuela",
+    "ru": "Боливарианская Республика Венесуэла"
+  },
+  "LBR": {
+    "en": "Republic of Liberia",
+    "ru": "Республика Либерия"
+  },
+  "JAM": {
+    "en": "Jamaica",
+    "ru": "Ямайка"
+  },
+  "POL": {
+    "en": "Republic of Poland",
+    "ru": "Республика Польша"
+  },
+  "CYM": {
+    "en": "Cayman Islands",
+    "ru": "Каймановы острова"
+  },
+  "BRN": {
+    "en": "Nation of Brunei, Abode of Peace",
+    "ru": "Нация Бруней, обитель мира"
+  },
+  "COM": {
+    "en": "Union of the Comoros",
+    "ru": "Союз Коморских Островов"
+  },
+  "GUM": {
+    "en": "Guam",
+    "ru": "Гуам"
+  },
+  "TON": {
+    "en": "Kingdom of Tonga",
+    "ru": "Королевство Тонга"
+  },
+  "KIR": {
+    "en": "Independent and Sovereign Republic of Kiribati",
+    "ru": "Независимой и суверенной Республики Кирибати"
+  },
+  "GHA": {
+    "en": "Republic of Ghana",
+    "ru": "Республика Гана"
+  },
+  "TCD": {
+    "en": "Republic of Chad",
+    "ru": "Республика Чад"
+  },
+  "ZWE": {
+    "en": "Republic of Zimbabwe",
+    "ru": "Республика Зимбабве"
+  },
+  "MAF": {
+    "en": "Saint Martin",
+    "ru": "Сен-Мартен"
+  },
+  "MNG": {
+    "en": "Mongolia",
+    "ru": "Монголия"
+  },
+  "PRT": {
+    "en": "Portuguese Republic",
+    "ru": "Португальская Республика"
+  },
+  "ASM": {
+    "en": "American Samoa",
+    "ru": "американское Самоа"
+  },
+  "COG": {
+    "en": "Republic of the Congo",
+    "ru": "Республика Конго"
+  },
+  "BEL": {
+    "en": "Kingdom of Belgium",
+    "ru": "Королевство Бельгия"
+  },
+  "ISR": {
+    "en": "State of Israel",
+    "ru": "Государство Израиль"
+  },
+  "NZL": {
+    "en": "New Zealand",
+    "ru": "Новая Зеландия"
+  },
+  "NIC": {
+    "en": "Republic of Nicaragua",
+    "ru": "Республика Никарагуа"
+  },
+  "AIA": {
+    "en": "Anguilla",
+    "ru": "Ангилья"
+  }
+}

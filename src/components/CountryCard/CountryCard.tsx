@@ -1,27 +1,24 @@
 import React from "react";
+import "./styles.scss";
+import { Link } from "react-router-dom";
 
 interface CountryCardProps {
   name: string;
   flagImage: string;
+  code: string;
 }
 
-const CountryCard: React.FC<CountryCardProps> = ({ name, flagImage }) => {
+const CountryCard: React.FC<CountryCardProps> = ({ name, flagImage, code }) => {
   return (
-    <div
-      style={{
-        display: "flex",
-        flexDirection: "column",
-        padding: "15px",
-        backgroundColor: "gray",
-        color: "black",
-        width: "300px",
-        height: "300px",
-        // overflow: "hidden",
-      }}
+    <Link
+      to={`/country/${code}`}
+      style={{ textDecoration: "none", color: "inherit" }}
     >
-      <h3>{name}</h3>
-      <img src={flagImage} alt={name} className="flag" />
-    </div>
+      <div className="country-card">
+        <img src={flagImage} alt={name} />
+        <h3>{name}</h3>
+      </div>
+    </Link>
   );
 };
 
