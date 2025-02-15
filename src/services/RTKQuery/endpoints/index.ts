@@ -9,7 +9,13 @@ export const extendedApi = baseApi.injectEndpoints({
       }),
       providesTags: ["countries"],
     }),
+    getCountryByCode: builder.query<any, string>({
+      query: (code) => ({
+        url: `/alpha/${code}`,
+        method: "get",
+      }),
+    }),
   }),
 });
 
-export const { useGetCountriesQuery } = extendedApi;
+export const { useGetCountriesQuery, useGetCountryByCodeQuery } = extendedApi;
